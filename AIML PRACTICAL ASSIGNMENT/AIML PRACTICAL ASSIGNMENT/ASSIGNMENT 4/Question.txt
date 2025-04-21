@@ -1,0 +1,17 @@
+Lab Assignments
+ SET A
+1. Write a Python Program to Import Data from CSV File Using Pandas and Calculate 
+measures of central tendency.
+2. Write a Python Program to Import Data from CSV File Using Pandas and Calculate 
+measures of dispersion.
+ 
+ SET B
+1. Write a Python Program to Implement Anova Test.
+2. Write a Python Program to Perform t-Test.
+3. Write a Python Program to Import Data from CSV File and Identify Outliers
+ 
+ SET C
+1. Write a Python Program to Perform Correlation Analysis Between Numerical Features 
+with the Help of Correlation Matrices Using Heatmaps with Seaborn.
+2. Write a Python Program to Visualize Data/frequency Distributions using Histograms with 
+Matplotlib or Seaborn.

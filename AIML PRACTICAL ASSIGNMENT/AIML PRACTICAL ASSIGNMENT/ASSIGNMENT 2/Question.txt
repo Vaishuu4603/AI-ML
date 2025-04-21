@@ -1,0 +1,9 @@
+Lab Assignments
+SET A
+1. Write a Python Program to Implement Depth-First Search (DFS) Algorithm.
+2. Write a Python Program to Implement Breadth First Search (BFS) Algorithm..
+ SET B
+1. Write a Python Program to Implement A* algorithms.
+2. Write a Python Program to Implement Depth Limited Search (DLS) Algorithm.
+ SET C
+1. Write a Python Program to Implement Bidirectional Search Algorithm.

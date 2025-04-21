@@ -1,0 +1,21 @@
+Lab Assignments
+SET A
+1. Write a Python program to import necessary libraries to read a dataset and Describe the 
+uses of Data Frame Attributes.(Use head(), tail(), shape, info() , describe() ,columns).
+2. Write a Program to implement Data cleaning -find all null values/missing values in a 
+given dataset and remove them. [use any dataset]
+3. Write a python program to implement Reshaping/Transform data- Conversion of 
+Categorical values in Numeric format for a given dataset.( LabelEncoder or One –Hot 
+Encoder).[use any dataset]
+SET B
+1. Write a python program to implement Data Normalization/Standardization - Rescale values 
+of columns using Standardscaler() or minmaxScaler() for a given dataset. [use any dataset]
+2. Write a python program to implement Data Splitting: Split the given dataset into train set 
+and test set which is of 70% & 30% respectively and print them.[use any dataset]
+SET C
+1. Write a python program to implement Pre-Processing of Play_Tennis.csv DataSet.
+● Import dataset & read a dataset.
+● Handle the Missing Values
+● Convert categorical data to numeric 
+● Rescale/normalize the Data
+● Split the dataset into a train & test set and print them.

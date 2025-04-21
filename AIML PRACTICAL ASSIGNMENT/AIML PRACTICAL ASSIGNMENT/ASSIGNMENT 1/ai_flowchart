@@ -1,0 +1,11 @@
+digraph {
+	A [label=Start]
+	B [label="Receive input"]
+	C [label="Process input"]
+	D [label="Provide output"]
+	E [label=End]
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+}

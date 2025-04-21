@@ -1,0 +1,41 @@
+SET A
+1. Case Study: As a mall owner, identify the most profitable customer groups based on Spending 
+Score by applying hierarchical algorithms.
+a. Apply Data pre-processing (Label Encoding, Data Transformation….) techniques if 
+necessary.
+b. Perform data-preparation (Train-Test Split)
+c. Apply hierarchical clustering Machine Learning Algorithm
+d. Evaluate Model.
+Download the Mall Customers Dataset from Kaggle. Data Set: 
+https://www.kaggle.com/shwetabh123/mall-customers
+
+2. Case Study: As a mall owner, identify the most profitable customer groups based on Spending 
+Score by applying k- means algorithms.
+a) Apply Data pre-processing (Label Encoding, Data Transformation….) techniques if 
+necessary.
+b) Perform data-preparation (Train-Test Split)
+c) Apply K- means clustering Machine Learning Algorithm
+d) Evaluate Model.
+Download the Mall Customers Dataset from Kaggle. Data Set: 
+https://www.kaggle.com/shwetabh123/mall-customers
+SET B
+1. Write a Python Program to Implement Apriori Algorithm.Generate frequent itemsets using the 
+Apriori algorithm.
+Dataset link: https://www.kaggle.com/datasets/hemanthkumar05/market-basket optimization
+The dataset contains 7501 transactions listing items sold per transaction. 
+
+2. Write a Python Program to Implement Apriori Algorithm.Identify association rules between 
+items using the Apriori algorithm.
+Download the Market Basket Optimization dataset
+The dataset contains 7501 transactions listing items sold per transaction. 
+54
+SET C
+1. Case Study: As a mall owner, identify the most profitable customer groups based on Spending 
+Score by applying Agglomerative clustering algorithms.
+a) Apply Data pre-processing (Label Encoding, Data Transformation….) techniques 
+if necessary.
+b) Perform data-preparation (Train-Test Split)
+c) Apply Agglomerative clustering Machine Learning Algorithm
+d) Evaluate Model.
+2. Write a Python Program to Implement FP-growth algorithm to find frequent item sets and 
+generate association rules.

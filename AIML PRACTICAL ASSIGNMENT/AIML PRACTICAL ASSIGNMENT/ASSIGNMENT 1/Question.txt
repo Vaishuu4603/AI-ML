@@ -1,0 +1,12 @@
+Lab Assignments
+SET A
+1. Write a Python Program to Create a Simple Chabot.
+2. Write a 1-page summary covering key milestones in AI development.
+SET B
+1. Write a Report with examples to Analyze AI Applications in Different Industries. (Healthcare, 
+Finance, and Transportation.).
+2. Write a Python Program to Create a Flowchart of AI Decision-Making Process.
+SET C
+1. Create a presentation on intelligent agents.
+(Include definitions, types of agents, and examples of intelligent behavior.)
+2. Write a Python Program to Implement a Simple AI AgentS

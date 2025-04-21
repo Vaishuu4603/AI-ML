@@ -1,0 +1,53 @@
+Lab Assignments
+SET A
+1. Write a Python program to apply simple linear regression and predict the score of a student if 
+he/she has studied for 9 hours. The dataset includes the study hours and the corresponding 
+scores of students.
+(Data set link: https://drive.google.com/open?id=1oakZCv7g3mlmCSdv9J8kdSaqO5_6dIOw) 
+data = { 'Hours': [2.5, 5.1, 3.2, 8.5, 3.5, 1.5, 9.2, 5.5, 8.3, 2.7, 7.7, 5.9, 4.5, 3.3, 1.1, 8.9, 2.5, 1.9, 
+6.1, 7.4, 2.7, 4.8], 'Scores': [21, 47, 27, 75, 30, 20, 88, 60, 81, 25, 85, 62, 41, 42, 17, 95, 30, 24, 
+67, 69, 30, 54] } 
+2. Write a Python program to apply polynomial regression to predict the car price based on engine 
+size, horsepower, and curb weight.
+( Dataset Link: https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/ )
+data = { 'Engine Size': [130, 150, 200, 120, 180, 140, 250, 300, 230, 160], 'Horsepower': [110, 
+130, 150, 95, 160, 120, 190, 210, 180, 140], 'Curb Weight': [2500, 2700, 3000, 2400, 3200, 
+2600, 3500, 4000, 3300, 2800], 'Price': [15000, 18000, 25000, 14000, 22000, 16000, 28000, 
+35000, 27000, 19000] }
+3. Write a Python program to apply multiple regression to predict housing prices based on 
+features such as area, bedrooms, and age. The dataset is stored in a CSV file, and you will use 
+pandas to load the data and scikit-learn for the regression analysis.Predict housing price for a 
+new data point (example: area=2000, bedrooms=3, age=10).
+(Dataset Link: https://www.kaggle.com/datasets/vikasukani/mini-house-price-data-set/ ) 
+data = { 'area': [1500, 1800, 2400, 3000, 3500, 4000, 2200, 2500, 3500, 4200], 'bedrooms': [3, 
+4, 4, 5, 5, 6, 3, 4, 4, 6], 'age': [10, 15, 20, 5, 10, 8, 12, 7, 18, 6], 'price': [400000, 450000, 500000, 
+700000, 750000, 850000, 475000, 600000, 650000, 950000] }
+SET B
+1. Write a python program to Build Decision Tree Classification model using Play Tennis dataset 
+to predict [0:overcast,2:Mild,1:normal ,0:Weak] tuple belongs to which class whether play 
+sports or not.
+2. Write a python program to implement Naive Bayes Classifier Model using Play Tennis to 
+predict [0:overcast,2:Mild,1:normal ,0:Weak] tuple belongs to which class whether play sports 
+or not.
+3. Write a python program to implement the KNeighborsClassifier model and check model 
+accuracy and confusion matrix. use a dataset is available in the sklearn library (from 
+sklearn.datasets import load_wine) or from sklearn.datasets import load_diabetes)
+44
+SET C
+1. Write a python program to build Support Vector Machine Model for breast cancer dataset and 
+check accuracy of model with precision and recall.The dataset is available in the sklearn library 
+.(from sklearn.datasets import load_breast_cancer)
+2. Case Study: Every year, students take the GRE to secure admissions to foreign 
+universities. The dataset contains the following attributes: GRE Score (out of 340), 
+TOEFL Score (out of 120), University Rating (out of 5), SOP strength (out of 5), LOR 
+strength (out of 5), UG GPA (out of 10), Research Experience (0=no, 1=yes), and 
+Admission Status (0=no, 1=yes). The goal is to predict Admission Status based on GRE 
+and Academic Scores.
+Task:
+1. Dataset: Download the dataset from Kaggle. 
+2. Preprocessing: Apply techniques like Label Encoding and Data Transformation, if 
+necessary.
+3. Data Preparation: Split the dataset into training and testing sets.
+4. Model Building: Use a random forest/logistic regression Classifier to predict admission 
+status.
+5. Evaluation: Evaluate the model using appropriate metrics and suggest improvements.
